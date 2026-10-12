@@ -1,0 +1,6 @@
+material,grade,temp_min_c,temp_max_c,temp_max_short_c,oil_resistance,fuel_resistance_standard,fuel_resistance_alcohol,ozone_resistance,weather_resistance,compression_set,chemical_resistance_broad,relative_cost,typical_automotive_use
+Buna-N,NBR-standard,-40,100,120,excellent,excellent,poor,poor,poor,very_good,moderate,low,engine oil seals;transmission seals;fuel lines
+Buna-N,NBR-high-temp,-30,120,130,excellent,excellent,poor,poor,poor,good,moderate,low-medium,valve cover gaskets;hydraulic seals
+FKM,FKM-standard,-20,200,230,excellent,excellent,excellent,excellent,excellent,excellent,excellent,high,high-temp fuel systems;O2 sensors;turbo seals
+FKM,FKM-low-temp,-40,200,230,excellent,excellent,excellent,excellent,excellent,excellent,excellent,high,exhaust sensors;cold-climate fuel systems
+FKM,FKM-specialty, -40,230,250,excellent,excellent,excellent,excellent,excellent,excellent,excellent,very_high,aerospace;chemical processing
